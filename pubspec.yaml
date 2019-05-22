@@ -1,0 +1,30 @@
+name: book1
+description: A new Flutter project.
+version: 1.0.0+1
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - img/angular.png
+    - img/bower.png
+    - img/ember.png
+    - img/grunt.png
+    - img/jquery.png
+    - img/js.png
+    - img/node.png
+    - img/npm.png
+    - img/react.png
+    - img/rx.png
+    - img/vue.png
+    - img/webpack.png
+    - img/yarn.png
+
+
